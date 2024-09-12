@@ -83,4 +83,3 @@ console.log(gameCounter); // print the increased value
 let gameCounter2=100;
 console.log(++gameCounter2) // 101 will print as first it'll increment and then it will print 
 
-lkvmler
