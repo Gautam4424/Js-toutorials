@@ -21,5 +21,8 @@ console.table([accountId , accountEmail ,accountPass , accountCity , accountStat
 //  Var => can be changed after declaration but didn't have scopeing methond like it;s is declared for the whole program .
 //  Let =>  can be changed after declaration and have scopeing methods like it;s is declared for the whole program .
 
+
+// Reccomended to use let  and const for declaration as var is outdated .git pull origin main
+
 // Reccomended to use let  and const for declaration as var is outdated .git pull origin main
 
